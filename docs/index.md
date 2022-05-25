@@ -1,7 +1,6 @@
 ---
 layout: default
 title: TesseLace index
-name: index.md
 ---
 
 TesseLace Index

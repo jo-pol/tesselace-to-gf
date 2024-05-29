@@ -9,4 +9,4 @@ Families of patterns are variations of the same pattern with [modified pin posit
 Note: Currently, GroundForge does not support pin positions therefore the thread diagrams for all members of a family look the same.
 
 [TesseLace.com]: https://tesselacedotcom.wordpress.com/
-[GroundForge]: /GroundForge/stitches.html
+[GroundForge]: /GroundForge/stitches.html[intro.md](intro.md)

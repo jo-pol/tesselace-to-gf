@@ -2,17 +2,16 @@
 layout: default
 title: Tesselace Index
 ---
-The diagrams are collected from [TesseLace.com],
-resulting from Ph.D research on _Algorithmically designed lace tessellations_
-by Veronika Irvine.
-* The `vari` links in the captions lead to distorted variations
-  of the pattern that are still bound to a grid.
+The grounds that appear in the TesseLace index are the result of research by [Veronika Irvine](https://linktr.ee/tesselace/) and were generated using a [mathematical model](https://tesselacedotcom.wordpress.com/research/jmm2014/).  Some of these grounds are familiar, traditional grounds.  Others have not been found in known catalogues and are likely new.
+
+* The `vari` links in the captions lead to the originally generated patterns.
+  These patterns result in the same thread diagrams looking more like the thumbnails.
   In turn these patterns link to the same page as the `diagr` links.
-* The `diagr` links lead to a page where you can choose stitches an toggle threads colors.
+* The `diagr` links lead to a page where you can choose stitches and highlight threads and stitches.
   On slow devices like tablets and phones it might take quite a while for the page to appear.
 
-[TesseLace.com]: https://tesselace.com
-[GroundForge]: /GroundForge/tiles.html
+[TesseLace.com]: https://tesselacedotcom.wordpress.com/
+[GroundForge]: /GroundForge/stitches.html[intro.md](intro.md)
 
 Note that the choice to put a pattern in a group may be arbitrary, duplicating too many in multiple groups would make the page too slow.
 

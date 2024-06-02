@@ -2,7 +2,7 @@
 layout: default
 title: Tesselace Index
 ---
-The grounds that appear in the TesseLace index are the result of research by [Veronika Irvine](https://linktr.ee/tesselace/) and were generated using a [mathematical model](https://tesselacedotcom.wordpress.com/research/jmm2014/).  Some of these grounds are familiar, traditional grounds.  Others have not been found in known catalogues and are likely new.
+{% include intro.md skip_howto=true %}
 
 * The `vari` links in the captions lead to the originally generated patterns.
   These patterns result in the same thread diagrams looking more like the thumbnails.
